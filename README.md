@@ -1,167 +1,266 @@
-<![CDATA[<!-- Animated Header -->
+<!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=200&section=header&text=Ayush%20Upadhyay&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Systems%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cybersecurity&descSize=18&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ayush%20Upadhyay&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Hackathon%20Champion&descSize=17&descAlignY=58&descColor=a78bfa" width="100%"/>
 </div>
 
-<!-- Dynamic Typing SVG -->
 <div align="center">
-  <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=4000&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%E2%9A%A1+Building+High-Performance+C%2B%2B+Systems;%F0%9F%94%92+Deep+Packet+Inspection+%26+Network+Security;%F0%9F%9B%A0%EF%B8%8F+Crafting+Scalable+Full-Stack+Architectures;%F0%9F%9A%80+Turning+Complex+Problems+into+Elegant+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=%F0%9F%A7%A0+Building+RAG+Pipelines+%26+LLM+Systems;%F0%9F%8F%86+National+%26+International+Hackathon+Champion;%F0%9F%94%AC+Published+IEEE+Researcher+%7C+Patent+Holder;%F0%9F%8C%8D+Interned+at+Nokia+%7C+IIT+Ropar+%7C+UK+%7C+Germany" alt="Typing SVG" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ayushdevx&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://ayushxupadhyay.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live-7c3aed?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ayushdevai">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MOE%20Innovation%20Ambassador-Govt.%20of%20India-FF9933?style=for-the-badge" alt="MOE Badge"/>
 </div>
 
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- About Section with Advanced Layout -->
+<!-- About Section -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="54%" valign="top">
 
 ## 👨‍💻 **About Me**
 
-```json
-{
-  "name": "Ayush Upadhyay",
-  "location": "India 🇮🇳",
-  "current_focus": "Distributed Systems & Full-Stack",
-  "core_competencies": [
-    "Deep Packet Inspection",
-    "Cybersecurity / NetSec",
-    "Multi-threading & Concurrency",
-    "Low-Level Optimization (C++)",
-    "Modern Web Technologies"
-  ],
-  "currently_building": [
-    "DPI Engine - High-Performance Packet Analyzer",
-    "Scalable Enterprise Web Applications"
-  ],
-  "philosophy": "Write code that tells a story.",
-  "fun_fact": "I parse raw TLS handshakes for breakfast 🥐"
-}
+```yaml
+name       : Ayush Upadhyay
+degree     : B.Tech AI & ML — VIT Chennai (2023–2027)
+reg_no     : 23BAI1231
+roles      :
+  - Full Stack Developer
+  - AI/ML Engineer
+  - Hackathon Organizer (Dev_Dash / HackFinity)
+
+achievements:
+  - 🏆 Tata Innovent 2026 — Winner
+  - 🏆 Samsung Solve for Tomorrow — Winner
+  - 📄 IEEE Published Researcher (YOLOv11 + BLIP)
+  - 💡 Patent Holder (Smart Battery Separator)
+  - 🎖️ MOE Innovation Ambassador — Govt. of India
+
+internships:
+  - Nokia (Telecom R&D)
+  - IIT Ropar (Research)
+  - Worktual Solutions, UK
+  - FlowbitAI, Germany
+
+philosophy : "Build things that matter. Ship fast. Iterate."
 ```
 
 </td>
-<td width="5%" valign="top"></td>
-<td width="40%" valign="top" align="center">
-
+<td width="5%"></td>
+<td width="41%" valign="top" align="center">
 <br/><br/><br/>
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" style="border-radius:15px; box-shadow: 0 0 20px #00FFCC;"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="310" style="border-radius:16px;"/>
+<br/><br/>
+
+```
+🎓 VIT Chennai   |   📍 India
+🔬 Research → AI/ML Systems
+🌐 Open to Internships & Collabs
+📫 ayushdevxai@gmail.com
+```
+
 </td>
 </tr>
 </table>
 
-<br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- Featured Work -->
-## 🌟 **Featured Engineering**
+<!-- Stats Row -->
+## 📊 **GitHub Analytics**
 
 <div align="center">
-  <a href="https://github.com/batmandevx/Packet_analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=batmandevx&repo=Packet_analyzer&theme=tokyonight&border_color=00FFCC&bg_color=1A1B26&title_color=00FFCC&icon_color=C0CAF5" width="400" />
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayushdevx&show_icons=true&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&count_private=true&hide_border=false" alt="Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Ayushdevx&theme=tokyonight&border=7c3aed&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=FFA066&currStreakLabel=a78bfa" alt="Streak"/>
 </div>
 
-<p align="center">
-  <i>🔥 <b>DPI Engine v2.0</b> — A robust, multi-threaded Deep Packet Inspection engine engineered in C++17. Analyzes PCAP streams, extracts SNI from TLS/HTTPS, classifies high-bandwidth applications (YouTube, TikTok), and executes configurable blocking rules utilizing a high-throughput Load Balancer → Fast Path architecture with consistent 5-tuple hashing.</i>
-</p>
+<br/>
+
+<div align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushdevx&layout=compact&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Langs"/>
+  <img width="54%" src="https://github-contributor-stats.vercel.app/api?username=Ayushdevx&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&border_color=7c3aed&bg_color=0d1117" alt="Top Repos"/>
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- Tech Arsenal 2.0 -->
+<!-- Featured Projects -->
+## 🌟 **Featured Projects**
+
+<div align="center">
+<table border="0" cellpadding="8" cellspacing="0">
+<tr>
+<td width="50%" align="center">
+
+<a href="https://github.com/Ayushdevx/CrispRoots-AgroTwin-Nexus">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushdevx&repo=CrispRoots-AgroTwin-Nexus&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed" width="380"/>
+</a>
+
+<p><i>🌾 AI-driven agricultural digital twin platform. Integrates CRISPR-guided crop optimization, real-time disease detection (YOLOv11), and multilingual voice interfaces for 600M+ Indian farmers. Built for ANNAM-AI 2025.</i></p>
+
+</td>
+<td width="50%" align="center">
+
+<a href="https://github.com/Ayushdevx/NeuroSketch-XR">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushdevx&repo=NeuroSketch-XR&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed" width="380"/>
+</a>
+
+<p><i>🧠 Mixed Reality neurosurgical training platform built on Meta Quest 3 + Logitech MX Ink. AI-powered procedural simulation for medical education with real-time haptic feedback.</i></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<a href="https://github.com/Ayushdevx/Compliance-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushdevx&repo=Compliance-AI&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed" width="380"/>
+</a>
+
+<p><i>📋 AI-powered BIS compliance monitoring for Indian educational institutions. Automates NAAC, NBA, and UGC framework assessments using LLM-driven document analysis pipelines.</i></p>
+
+</td>
+<td width="50%" align="center">
+
+<a href="https://github.com/Ayushdevx/Packet_analyzer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayushdevx&repo=Packet_analyzer&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed" width="380"/>
+</a>
+
+<p><i>🔍 High-performance C++17 Deep Packet Inspection engine. Multi-threaded PCAP stream analysis, TLS SNI extraction, application classification, and configurable blocking with 5-tuple hashing.</i></p>
+
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- Tech Stack -->
 ## 🚀 **Tech Arsenal**
 
-<h3 align="center">Systems & Core</h3>
+<h3 align="center">🤖 AI / ML / LLM</h3>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/></a>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-7c3aed?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/YOLOv11-00FFCC?style=for-the-badge"/>
 </p>
 
-<h3 align="center">Modern Web</h3>
+<h3 align="center">🌐 Full Stack</h3>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/></a>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </p>
 
-<h3 align="center">Infrastructure & Tools</h3>
+<h3 align="center">☁️ Cloud / DevOps / Systems</h3>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/OpenStack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white" alt="OpenStack"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- Advanced Analytics -->
-## 📊 **Developer Analytics**
+<!-- Achievements Banner -->
+## 🏅 **Achievements & Recognition**
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=batmandevx&show_icons=true&theme=tokyonight&border_color=00FFCC&bg_color=1A1B26&title_color=00FFCC&icon_color=C0CAF5&text_color=9ECE6A&count_private=true" alt="Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=batmandevx&theme=tokyonight&border=00FFCC&background=1A1B26&stroke=C0CAF5&ring=00FFCC&fire=FFA066&currStreakLabel=00FFCC" alt="Streak"/>
+
+| 🏆 Award | 🗂️ Details | 📅 Year |
+|---|---|---|
+| **Tata Innovent** | National Innovation Challenge — Winner | 2026 |
+| **Samsung Solve for Tomorrow** | National Tech Challenge — Winner | 2025 |
+| **IEEE Research Publication** | YOLOv11 + BLIP Image Captioning System | 2024 |
+| **Patent Granted** | Voltage-Responsive Smart Battery Separator | 2024 |
+| **MOE Innovation Ambassador** | Certified by Government of India | 2024 |
+| **Dev_Dash Organizer** | HackFinity Hackathon — 1,550+ participants, 65+ countries | 2026 |
+| **Nokia Internship** | Telecom R&D Engineering | 2024 |
+| **IIT Ropar Research Intern** | Applied AI Research | 2024 |
+| **FlowbitAI, Germany** | AI/ML Engineering Intern | 2024 |
+| **Worktual Solutions, UK** | Full Stack Development Intern | 2024 |
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batmandevx&layout=compact&theme=tokyonight&border_color=00FFCC&bg_color=1A1B26&title_color=00FFCC&text_color=9ECE6A&langs_count=6" alt="Top Langs"/>
-  <img width="45%" src="https://github-contributor-stats.vercel.app/api?username=batmandevx&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&border_color=00FFCC&bg_color=1A1B26" alt="Top Repos"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayushdevx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="Trophies"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🏅 **Achievements & Activity**
+<!-- Activity Graph -->
+## 📈 **Contribution Activity**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=batmandevx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" alt="Trophies"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=batmandevx&bg_color=1A1B26&color=00FFCC&line=9ECE6A&point=FFFFFF&area_color=00FFCC&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushdevx&bg_color=0d1117&color=a78bfa&line=7c3aed&point=FFFFFF&area_color=7c3aed&area=true&hide_border=false&border_color=7c3aed" width="100%" alt="Activity Graph"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🤝 **Connect With Me**
+<!-- Connect -->
+## 🤝 **Let's Connect**
 
 <div align="center">
-  <a href="https://github.com/batmandevx">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/Ayushdevx">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:ayushanimationgamer@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  &nbsp;
+  <a href="https://linkedin.com/in/ayushdevai">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="mailto:ayushdevxai@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="https://ayushxupadhyay.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=00FFCC" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=a78bfa"/>
+  </a>
+  &nbsp;
+  <a href="tel:+919305183418">
+    <img src="https://img.shields.io/badge/Phone-%2B91--9305183418-7c3aed?style=for-the-badge&logo=phone&logoColor=white"/>
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=batmandevx&style=for-the-badge&color=00FFCC&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <i>"I don't just build products — I build things that solve real problems at scale."</i>
+  <br/><br/>
+  <b>Open to: Full-time roles, research internships, hackathon collabs, and startup opportunities.</b>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/batmandevx">
-    <img src="https://raw.githubusercontent.com/batmandevx/batmandevx/output/snake.svg?sanitize=true" alt="Snake animation" />
+  <a href="https://github.com/Ayushdevx">
+    <img src="https://raw.githubusercontent.com/Ayushdevx/Ayushdevx/output/snake.svg?sanitize=true" alt="Snake animation"/>
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=120&section=footer" width="100%"/>
-]]>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer" width="100%"/>
