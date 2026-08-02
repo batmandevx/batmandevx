@@ -5,9 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:0f0c29&height=260&section=header&text=AYUSH%20UPADHYAY&fontSize=58&fontColor=FBBF24&animation=twinkling&fontAlignY=36&desc=AI%2FML%20Engineer%20%40%20Microsoft%20%7C%20LLM%20Systems%20%26%20RAG%20%7C%20Patent%20Holder&descSize=16&descAlignY=56&descColor=FDE68A" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=FBBF24&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🦇+Applied+Scientist+Intern+%40+Microsoft+%E2%80%94+AI+Platform+Team;🧠+LLM+Post-Training+%C2%B7+RAG+Architectures+%C2%B7+Inference+Optimization;🏆+14x+Hackathon+Winner+%7C+Founder%2C+HackFinity+%26+Nexora+Hacks;⚖️+Granted+Patent+Holder+%7C+3x+IEEE+Published+Researcher" alt="Typing SVG"/>
-</div>
+
 
 <br/>
 
