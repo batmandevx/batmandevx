@@ -2,10 +2,16 @@
 <!--                    HEADER — GOTHAM SKYLINE                   -->
 <!-- ============================================================ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:0f0c29&height=260&section=header&text=AYUSH%20UPADHYAY&fontSize=58&fontColor=FBBF24&animation=twinkling&fontAlignY=36&desc=AI%2FML%20Engineer%20%40%20Microsoft%20%7C%20LLM%20Systems%20%26%20RAG%20%7C%20Patent%20Holder&descSize=16&descAlignY=56&descColor=FDE68A" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:1a1a2e,70:2d1b69,100:000000&height=300&section=header&text=AYUSH%20UPADHYAY&fontSize=60&fontColor=FBBF24&animation=twinkling&fontAlignY=34&desc=AI%2FML%20Engineer%20%40%20Microsoft%20%7C%20LLM%20Systems%20%26%20RAG%20%7C%20Patent%20Holder&descSize=17&descAlignY=54&descColor=FDE68A" width="100%"/>
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1600&pause=400&color=4ADE80&background=00000000&center=true&vCenter=true&width=650&height=40&lines=%3E+booting+gotham_protocol.exe...;%3E+loading+batcomputer+modules...;%3E+access+granted+%E2%80%94+welcome%2C+ayush" alt="Terminal Boot"/>
+</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=FBBF24&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🦇+Applied+Scientist+Intern+%40+Microsoft+%E2%80%94+AI+Platform+Team;🧠+LLM+Post-Training+%C2%B7+RAG+Architectures+%C2%B7+Inference+Optimization;🏆+14x+Hackathon+Winner+%7C+Founder%2C+HackFinity+%26+Nexora+Hacks;⚖️+Granted+Patent+Holder+%7C+3x+IEEE+Published+Researcher" alt="Typing SVG"/>
+</div>
 
 <br/>
 
@@ -27,7 +33,7 @@
   <img src="https://img.shields.io/badge/MOE%20Innovation%20Ambassador-Govt.%20of%20India-1a1a2e?style=for-the-badge&labelColor=000000&color=FBBF24" alt="MOE Badge"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FBBF24,100:000000&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FBBF24,100:000000&height=5&animation=blinking&section=header" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                        ABOUT ME                               -->
@@ -60,7 +66,7 @@ roles       :
 <td width="5%"></td>
 <td width="40%" valign="top" align="center">
 <br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" style="border-radius:16px;"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" style="border-radius:16px; box-shadow: 0 0 35px rgba(251,191,36,0.45);"/>
 <br/><br/>
 
 ```
@@ -74,7 +80,7 @@ roles       :
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FBBF24,100:000000&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FBBF24,100:000000&height=5&animation=blinking&section=header" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                     GITHUB ANALYTICS                          -->
@@ -102,10 +108,24 @@ roles       :
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=batmandevx&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=batmandevx&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="Trophies"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FBBF24,100:000000&height=4&section=header" width="100%"/>
+<!--
+  🦇 SNAKE ANIMATION — requires a one-time setup in the batmandevx/batmandevx repo:
+  add .github/workflows/snake.yml using the Platane/snk action, which commits
+  the generated SVGs to an `output` branch. Once that workflow has run once,
+  the image below will render a snake eating through your contribution graph.
+-->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/batmandevx/batmandevx/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/batmandevx/batmandevx/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/batmandevx/batmandevx/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FBBF24,100:000000&height=5&animation=blinking&section=header" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                  ROLES & RECOGNITION                          -->
@@ -128,7 +148,7 @@ roles       :
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FBBF24,100:000000&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FBBF24,100:000000&height=5&animation=blinking&section=header" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                      TECH ARSENAL                             -->
@@ -161,7 +181,7 @@ roles       :
   <img src="https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=FBBF24&labelColor=000000"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FBBF24,100:000000&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FBBF24,100:000000&height=5&animation=blinking&section=header" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                  RESEARCH & PATENTS                           -->
@@ -181,7 +201,7 @@ roles       :
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FBBF24,100:000000&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:000000,50:FBBF24,100:000000&height=90&section=header" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                     FEATURED WORK                             -->
@@ -204,7 +224,7 @@ Agentic AI dispute-resolution layer for credit-card chargebacks. A five-agent ar
 </table>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FBBF24,100:000000&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FBBF24,100:000000&height=5&animation=blinking&section=header" width="100%"/>
 
 <!-- ============================================================ -->
 <!--                     LET'S CONNECT                             -->
@@ -235,4 +255,4 @@ Agentic AI dispute-resolution layer for credit-card chargebacks. A five-agent ar
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a2e,100:000000&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2d1b69,100:000000&height=160&section=footer&animation=fadeIn" width="100%"/>
