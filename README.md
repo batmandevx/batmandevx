@@ -1,38 +1,176 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!!+👋;+I'm+Ayush+Upadhyay!+😉" />
-</h1>
+<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:A78BFA,100:F472B6&height=260&section=header&text=AYUSH%20UPADHYAY&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=builds%20AI%20that%20thinks%20faster&descSize=20&descAlignY=60&animation=twinkling" />
 
-<!-- Space Shooter Game Section -->
 <p align="center">
-  <img src="assets/space-shooter.gif" alt="Space Shooter Game" />
+  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="120" />
 </p>
 
-### Hi there! <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="25"/>
+<p align="center">
+  <a href="https://github.com/batmandevx">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=760&height=50&lines=%3E+booting+ayush.exe+...;%3E+LLM+post-training+%E2%80%A2+RAG+%E2%80%A2+Inference;%3E+turning+research+into+real+products;%3E+status%3A+open+to+work+%F0%9F%9F%A2" alt="typing" />
+  </a>
+</p>
 
-<img align='right' src='https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif' width='310' height='310'>
+<p align="center">
+  <a href="https://ayushzupadhyay.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" /></a>
+  <a href="https://linkedin.com/in/ayushdevai"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
+  <a href="mailto:ayushdevxai@gmail.com"><img src="https://img.shields.io/badge/HIRE%20ME-0D1117?style=for-the-badge&logo=gmail&logoColor=F472B6" /></a>
+  <a href="https://leetcode.com/u/N5uq6wDQyn/"><img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=batmandevx&style=flat-square&color=A78BFA&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/batmandevx?style=flat-square&color=22D3EE&label=FOLLOWERS&logo=github" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-4ADE80?style=flat-square" />
+</p>
 
-# 💫 About Me:
-I'm Ayush Upadhyay , I like to create with compassion 
+<!-- ═══════════════════════════  TERMINAL HERO  ═══════════════════════════ -->
+<p align="center">
+  <img src="assets/terminal.svg" width="100%" alt="animated terminal" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white)
+<img src="assets/divider.svg" width="100%" />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=batmandevx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=batmandevx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=batmandevx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ═══════════════════════════  WHOAMI  ═══════════════════════════ -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="32" />
+  &nbsp;whoami
+</h2>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=batmandevx&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<table align="center">
+<tr>
+<td width="55%" valign="middle">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=batmandevx&limit=5&theme=dark&combine_all_yearly_contributions=true)
+```python
+class Ayush:
+    role     = "AI Engineer"
+    focus    = ["LLM post-training",
+                "RAG systems",
+                "Inference optimization"]
+    builds   = ["AI agents",
+                "research systems",
+                "full-stack products"]
+    motto    = "Create with compassion."
 
----
-[![](https://visitcount.itsvg.in/api?id=batmandevx&icon=0&color=0)](https://visitcount.itsvg.in)
+    def hire(self):
+        return "Let's build something cool."
+```
 
-<br clear="both">
+</td>
+<td width="45%" align="center" valign="middle">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
+</td>
+</tr>
+</table>
 
-<img src="https://raw.githubusercontent.com/qh21/qh21/output/snake.svg" alt="Snake animation" />
+<!-- ═══════════════════════════  FOCUS  ═══════════════════════════ -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="32" />
+  &nbsp;what I obsess over
+</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="assets/focus.svg" width="100%" alt="focus areas" />
+</p>
+
+<img src="assets/divider.svg" width="100%" />
+
+<!-- ═══════════════════════════  ARSENAL  ═══════════════════════════ -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="32" />
+  &nbsp;arsenal
+</h2>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="120" />
+</p>
+
+<p align="center"><b>languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,ts,js,kotlin,lua&theme=dark&perline=8" />
+</p>
+<p align="center"><b>web &amp; backend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nuxtjs,angular,nodejs,express,nestjs,fastapi&theme=dark&perline=8" />
+</p>
+<p align="center"><b>tools &amp; cloud</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,anaconda,latex,md,powershell,dotnet&theme=dark&perline=8" />
+</p>
+<p align="center"><b>ai / ml</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark&perline=8" />
+</p>
+
+<img src="assets/divider.svg" width="100%" />
+
+<!-- ═══════════════════════════  STATS  ═══════════════════════════ -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="40" />
+  &nbsp;telemetry
+</h2>
+
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=batmandevx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=E6EDF3&rank_icon=github" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batmandevx&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E6EDF3" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=batmandevx&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=22D3EE&sideLabels=E6EDF3&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3" />
+</p>
+
+<!-- 3D contribution city, generated by .github/workflows/profile-3d.yml -->
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contributions" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=batmandevx&hide_border=true&area=true&bg_color=0D1117&color=A78BFA&line=22D3EE&point=F472B6&area_color=A78BFA" />
+</p>
+
+<!-- ═══════════════════════════  FUN ZONE  ═══════════════════════════ -->
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="32" />
+  &nbsp;break room
+</h2>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="32%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="32%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="32%" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false" />
+</p>
+
+<!-- Space shooter: re-enable once assets/space-shooter.gif is added to the repo
+<p align="center">
+  <img src="assets/space-shooter.gif" width="80%" alt="space shooter" />
+</p>
+-->
+
+<!-- Your own contribution snake, generated by .github/workflows/snake.yml -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/batmandevx/batmandevx/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/batmandevx/batmandevx/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/batmandevx/batmandevx/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<!-- ═══════════════════════════  SIGN-OFF  ═══════════════════════════ -->
+<div align="center">
+
+```
+ _          _                      _
+| |__  __ _| |_ _ __  __ _ _ _  __| |_____ ____ __
+| '_ \/ _` |  _| '  \/ _` | ' \/ _` / -_) V /\ \ /
+|_.__/\__,_|\__|_|_|_\__,_|_||_\__,_\___|\_/ /_\_\
+
+        >  thanks for scrolling. let's build.  <
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,50:A78BFA,100:22D3EE&height=140&section=footer&animation=twinkling" />
