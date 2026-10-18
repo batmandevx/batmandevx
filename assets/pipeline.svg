@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270">
+<defs>
+  <linearGradient id="haze" x1="0" x2="1"><stop offset="0%" stop-color="#22D3EE"/><stop offset="50%" stop-color="#A78BFA"/><stop offset="100%" stop-color="#F472B6"/></linearGradient>
+  <filter id="gl" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4"/></filter>
+</defs>
+<style>
+  text { font-family: 'Fira Code','JetBrains Mono','DejaVu Sans Mono',Menlo,Consolas,monospace; }
+  .flow { stroke-dasharray: 4 8; animation: flow .8s linear infinite; }
+  @keyframes flow { to { stroke-dashoffset: -12; } }
+  .card { opacity: 0; animation: rise .6s cubic-bezier(.2,.8,.2,1) forwards; }
+  @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+</style>
+<rect x="1" y="1" width="898" height="268" rx="16" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+<text x="24" y="38" font-size="14" fill="#8B949E"><tspan fill="#A78BFA">&gt;</tspan> how a question travels through my systems</text>
+<text x="876" y="38" font-size="12" fill="#8B949E" text-anchor="end">rag.pipeline()</text>
+<line class="flow" x1="144" y1="140.0" x2="165" y2="140.0" stroke="#22D3EE" stroke-width="2" stroke-linecap="round"/>
+<path d="M159,136.0 L165,140.0 L159,144.0" fill="none" stroke="#22D3EE" stroke-width="2"/>
+<line class="flow" x1="291" y1="140.0" x2="312" y2="140.0" stroke="#22D3EE" stroke-width="2" stroke-linecap="round"/>
+<path d="M306,136.0 L312,140.0 L306,144.0" fill="none" stroke="#22D3EE" stroke-width="2"/>
+<line class="flow" x1="438" y1="140.0" x2="459" y2="140.0" stroke="#A78BFA" stroke-width="2" stroke-linecap="round"/>
+<path d="M453,136.0 L459,140.0 L453,144.0" fill="none" stroke="#A78BFA" stroke-width="2"/>
+<line class="flow" x1="585" y1="140.0" x2="606" y2="140.0" stroke="#A78BFA" stroke-width="2" stroke-linecap="round"/>
+<path d="M600,136.0 L606,140.0 L600,144.0" fill="none" stroke="#A78BFA" stroke-width="2"/>
+<line class="flow" x1="732" y1="140.0" x2="753" y2="140.0" stroke="#F472B6" stroke-width="2" stroke-linecap="round"/>
+<path d="M747,136.0 L753,140.0 L747,144.0" fill="none" stroke="#F472B6" stroke-width="2"/>
+<path class="flow" d="M816.0,177 C816.0,245 81.0,245 81.0,177" fill="none" stroke="url(#haze)" stroke-width="1.5" opacity=".55"/>
+<rect x="330.0" y="219" width="240" height="24" rx="12" fill="#161B22" stroke="#30363D"/><text x="450.0" y="235" font-size="12" fill="#E6EDF3" text-anchor="middle">evals → feedback → fine-tune</text>
+<circle r="4" fill="#F472B6" filter="url(#gl)"><animateMotion dur="6.0s" begin="5.10s" repeatCount="indefinite" path="M816.0,177 C816.0,245 81.0,245 81.0,177" keyPoints="0;1;1" keyTimes="0;.35;1" calcMode="linear"/></circle>
+<circle r="2.5" fill="#fff"><animateMotion dur="6.0s" begin="5.10s" repeatCount="indefinite" path="M816.0,177 C816.0,245 81.0,245 81.0,177" keyPoints="0;1;1" keyTimes="0;.35;1" calcMode="linear"/></circle>
+<circle r="6" fill="#22D3EE" filter="url(#gl)"><animateMotion dur="6.0s" repeatCount="indefinite" path="M81.0,140.0 L816.0,140.0" keyPoints="0;1;1" keyTimes="0;.85;1" calcMode="linear"/><animate attributeName="fill" values="#22D3EE;#A78BFA;#F472B6;#4ADE80;#4ADE80" keyTimes="0;.35;.6;.85;1" dur="6.0s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#fff"><animateMotion dur="6.0s" repeatCount="indefinite" path="M81.0,140.0 L816.0,140.0" keyPoints="0;1;1" keyTimes="0;.85;1" calcMode="linear"/><animate attributeName="fill" values="#22D3EE;#A78BFA;#F472B6;#4ADE80;#4ADE80" keyTimes="0;.35;.6;.85;1" dur="6.0s" repeatCount="indefinite"/></circle>
+<g class="card" style="animation-delay:0.15s">
+<rect x="20" y="105" width="122" height="70" rx="12" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+<rect x="20" y="105" width="122" height="70" rx="12" fill="none" stroke="#22D3EE" stroke-width="2.5" filter="url(#gl)" opacity="0"><animate attributeName="opacity" values="1;1;0;0;0" keyTimes="0;0.001;0.100;0.101;1" dur="6.0s" repeatCount="indefinite"/></rect>
+<rect x="20" y="105" width="122" height="70" rx="12" fill="none" stroke="#22D3EE" stroke-width="1.5" opacity=".35"/>
+<text x="34" y="127" font-size="10" fill="#22D3EE">01</text>
+<text x="81.0" y="145" font-size="15" font-weight="700" fill="#E6EDF3" text-anchor="middle">query</text>
+<text x="81.0" y="163" font-size="10.5" fill="#8B949E" text-anchor="middle">user intent</text>
+</g>
+<g class="card" style="animation-delay:0.27s">
+<rect x="167" y="105" width="122" height="70" rx="12" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+<rect x="167" y="105" width="122" height="70" rx="12" fill="none" stroke="#22D3EE" stroke-width="2.5" filter="url(#gl)" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.130;0.171;0.270;1" dur="6.0s" repeatCount="indefinite"/></rect>
+<rect x="167" y="105" width="122" height="70" rx="12" fill="none" stroke="#22D3EE" stroke-width="1.5" opacity=".35"/>
+<text x="181" y="127" font-size="10" fill="#22D3EE">02</text>
+<text x="228.0" y="145" font-size="15" font-weight="700" fill="#E6EDF3" text-anchor="middle">embed</text>
+<text x="228.0" y="163" font-size="10.5" fill="#8B949E" text-anchor="middle">text → vectors</text>
+</g>
+<g class="card" style="animation-delay:0.39s">
+<rect x="314" y="105" width="122" height="70" rx="12" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+<rect x="314" y="105" width="122" height="70" rx="12" fill="none" stroke="#A78BFA" stroke-width="2.5" filter="url(#gl)" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.300;0.341;0.440;1" dur="6.0s" repeatCount="indefinite"/></rect>
+<rect x="314" y="105" width="122" height="70" rx="12" fill="none" stroke="#A78BFA" stroke-width="1.5" opacity=".35"/>
+<text x="328" y="127" font-size="10" fill="#A78BFA">03</text>
+<text x="375.0" y="145" font-size="15" font-weight="700" fill="#E6EDF3" text-anchor="middle">retrieve</text>
+<text x="375.0" y="163" font-size="10.5" fill="#8B949E" text-anchor="middle">top-k chunks</text>
+</g>
+<g class="card" style="animation-delay:0.51s">
+<rect x="461" y="105" width="122" height="70" rx="12" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+<rect x="461" y="105" width="122" height="70" rx="12" fill="none" stroke="#A78BFA" stroke-width="2.5" filter="url(#gl)" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.470;0.511;0.610;1" dur="6.0s" repeatCount="indefinite"/></rect>
+<rect x="461" y="105" width="122" height="70" rx="12" fill="none" stroke="#A78BFA" stroke-width="1.5" opacity=".35"/>
+<text x="475" y="127" font-size="10" fill="#A78BFA">04</text>
+<text x="522.0" y="145" font-size="15" font-weight="700" fill="#E6EDF3" text-anchor="middle">rerank</text>
+<text x="522.0" y="163" font-size="10.5" fill="#8B949E" text-anchor="middle">cross-encoder</text>
+</g>
+<g class="card" style="animation-delay:0.63s">
+<rect x="608" y="105" width="122" height="70" rx="12" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+<rect x="608" y="105" width="122" height="70" rx="12" fill="none" stroke="#F472B6" stroke-width="2.5" filter="url(#gl)" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.640;0.681;0.780;1" dur="6.0s" repeatCount="indefinite"/></rect>
+<rect x="608" y="105" width="122" height="70" rx="12" fill="none" stroke="#F472B6" stroke-width="1.5" opacity=".35"/>
+<text x="622" y="127" font-size="10" fill="#F472B6">05</text>
+<text x="669.0" y="145" font-size="15" font-weight="700" fill="#E6EDF3" text-anchor="middle">generate</text>
+<text x="669.0" y="163" font-size="10.5" fill="#8B949E" text-anchor="middle">LLM + context</text>
+</g>
+<g class="card" style="animation-delay:0.75s">
+<rect x="755" y="105" width="122" height="70" rx="12" fill="#161B22" stroke="#30363D" stroke-width="1.5"/>
+<rect x="755" y="105" width="122" height="70" rx="12" fill="none" stroke="#4ADE80" stroke-width="2.5" filter="url(#gl)" opacity="0"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.810;0.851;0.950;1" dur="6.0s" repeatCount="indefinite"/></rect>
+<rect x="755" y="105" width="122" height="70" rx="12" fill="none" stroke="#4ADE80" stroke-width="1.5" opacity=".35"/>
+<text x="769" y="127" font-size="10" fill="#4ADE80">06</text>
+<text x="816.0" y="145" font-size="15" font-weight="700" fill="#E6EDF3" text-anchor="middle">answer</text>
+<text x="816.0" y="163" font-size="10.5" fill="#8B949E" text-anchor="middle">grounded + cited</text>
+</g>
+<rect x="189" y="93" width="6" height="6" rx="1.5" fill="#22D3EE" opacity=".7"><animate attributeName="height" values="6;17;6" dur="1.2s" repeatCount="indefinite"/><animate attributeName="y" values="93;82;93" dur="1.2s" repeatCount="indefinite"/></rect>
+<rect x="199" y="86" width="6" height="13" rx="1.5" fill="#22D3EE" opacity=".7"><animate attributeName="height" values="13;14;13" dur="1.3s" repeatCount="indefinite"/><animate attributeName="y" values="86;86;86" dur="1.3s" repeatCount="indefinite"/></rect>
+<rect x="209" y="93" width="6" height="6" rx="1.5" fill="#22D3EE" opacity=".7"><animate attributeName="height" values="6;17;6" dur="1.4s" repeatCount="indefinite"/><animate attributeName="y" values="93;82;93" dur="1.4s" repeatCount="indefinite"/></rect>
+<rect x="219" y="86" width="6" height="13" rx="1.5" fill="#22D3EE" opacity=".7"><animate attributeName="height" values="13;14;13" dur="1.5s" repeatCount="indefinite"/><animate attributeName="y" values="86;86;86" dur="1.5s" repeatCount="indefinite"/></rect>
+<rect x="229" y="93" width="6" height="6" rx="1.5" fill="#22D3EE" opacity=".7"><animate attributeName="height" values="6;17;6" dur="1.6s" repeatCount="indefinite"/><animate attributeName="y" values="93;82;93" dur="1.6s" repeatCount="indefinite"/></rect>
+<rect x="239" y="86" width="6" height="13" rx="1.5" fill="#22D3EE" opacity=".7"><animate attributeName="height" values="13;14;13" dur="1.7s" repeatCount="indefinite"/><animate attributeName="y" values="86;86;86" dur="1.7s" repeatCount="indefinite"/></rect>
+<rect x="249" y="93" width="6" height="6" rx="1.5" fill="#22D3EE" opacity=".7"><animate attributeName="height" values="6;17;6" dur="1.8s" repeatCount="indefinite"/><animate attributeName="y" values="93;82;93" dur="1.8s" repeatCount="indefinite"/></rect>
+<rect x="259" y="86" width="6" height="13" rx="1.5" fill="#22D3EE" opacity=".7"><animate attributeName="height" values="13;14;13" dur="1.9s" repeatCount="indefinite"/><animate attributeName="y" values="86;86;86" dur="1.9s" repeatCount="indefinite"/></rect>
+<rect x="334" y="81" width="22" height="14" rx="3" fill="none" stroke="#A78BFA" stroke-width="1.2"><animate attributeName="opacity" values=".25;1;.25" dur="1.8s" begin="0.0s" repeatCount="indefinite"/></rect>
+<rect x="362" y="81" width="22" height="14" rx="3" fill="none" stroke="#A78BFA" stroke-width="1.2"><animate attributeName="opacity" values=".25;1;.25" dur="1.8s" begin="0.3s" repeatCount="indefinite"/></rect>
+<rect x="390" y="81" width="22" height="14" rx="3" fill="none" stroke="#A78BFA" stroke-width="1.2"><animate attributeName="opacity" values=".25;1;.25" dur="1.8s" begin="0.6s" repeatCount="indefinite"/></rect>
+</svg>
