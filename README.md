@@ -28,7 +28,7 @@
   <img src="assets/terminal.svg" width="100%" alt="animated terminal" />
 </p>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="assets/divider.svg" width="100%" alt="animated neon divider" />
 
 <!-- ═══════════════════════════  WHOAMI  ═══════════════════════════ -->
 <h2 align="center">
@@ -62,7 +62,7 @@ class Ayush:
 </tr>
 </table>
 
-<img src="assets/cat-divider.svg" width="100%" />
+<img src="assets/cat-divider.svg" width="100%" alt="pixel cat walking divider" />
 
 <!-- ═══════════════════════════  FOCUS  ═══════════════════════════ -->
 <h2 align="center">
@@ -78,7 +78,7 @@ class Ayush:
   <img src="assets/pipeline.svg" width="100%" alt="animated RAG pipeline" />
 </p>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="assets/divider.svg" width="100%" alt="animated neon divider" />
 
 <!-- ═══════════════════════════  ARSENAL  ═══════════════════════════ -->
 <h2 align="center">
@@ -107,7 +107,7 @@ class Ayush:
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark&perline=8" />
 </p>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="assets/divider.svg" width="100%" alt="animated neon divider" />
 
 <!-- ═══════════════════════════  NOW  ═══════════════════════════ -->
 <h2 align="center">
@@ -119,7 +119,7 @@ class Ayush:
   <img src="assets/now.svg" width="100%" alt="currently building, learning, fuel" />
 </p>
 
-<img src="assets/cat-divider.svg" width="100%" />
+<img src="assets/cat-divider.svg" width="100%" alt="pixel cat walking divider" />
 
 <!-- ═══════════════════════════  STATS  ═══════════════════════════ -->
 <h2 align="center">
